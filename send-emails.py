@@ -6,8 +6,7 @@ subject = "Email From Python"
 body = "This is a test email form Python!"
 sender_email = "discordindrajit@gmail.com"
 receiver_email = "palindrajit10@gmail.com"
-# password = input("Enter your password: ")
-password = "akgpp5156g"
+password = input("Enter your password: ")
 
 message = EmailMessage()
 message["From"] = sender_email
