@@ -2,7 +2,7 @@ from pydoc import tempfilepager
 from urllib import response
 import requests
 
-API_KEY = "e92890feea239e7f26c9e30d30da3a18"
+API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name: ")
